@@ -526,6 +526,16 @@
         padding-left: 31px;
         margin-left: -30px;
     }
+
+    .footer-area-one {
+        height: 33vh;
+    }
+
+    .footer .footer-container .mix {
+        margin-left: 30px;
+        font-size: 11px;
+        margin-top: 11px;
+    }
     
 }
 
