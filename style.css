@@ -1,0 +1,277 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Cinzel', serif;
+	background-image: linear-gradient(#ede6cc, #ece4cd);
+	overflow-x: hidden;
+}
+
+.header-section .header-container {
+    width: 90%;
+    padding-top: 50px;
+}
+
+.header-section h1 {
+	font-size: 36px;
+	margin-left: 150px;
+}
+
+.header-section h6 {
+	font-size: 17px;
+	letter-spacing: 15px;
+	margin-left: 156px;
+}
+
+.header-section {
+    text-align: center;
+    overflow: hidden;
+}
+
+.heading-link {
+	overflow: hidden;
+	height: 40vh;
+}
+
+
+.heading-link nav ul {
+    list-style-type: none;
+}
+
+.heading-link nav ul li {
+	float: left;
+	position: relative;
+	left: 19%;
+	top: 44px;
+	font-size: 23px;
+}
+
+.heading-link nav ul li a {
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 10px 10px;
+	margin-left: 50px;
+	color: #363636;
+	display: inline-block;
+	transition: 0.3s;
+}
+
+.heading-link nav ul li a:hover {
+	background: green;
+	color: #fff;
+	border-radius: 5px;
+}
+
+.content-one {
+	text-align: center;
+	height: 23vh;
+}
+
+.content-one .content-container {
+    width: 90%;
+}
+
+.content-one .heading-content h1 {
+	position: relative;
+	bottom: 20px;
+	font-size: 60px;
+	color: #363636;
+	left: 98px;
+	top: -103px;
+}
+
+.content-one .heading-content strong {
+    color: #844e02;
+}
+
+.content-one .heading-content p {
+	font-size: 22px;
+	line-height: 55px;
+	color: #363636;
+	position: relative;
+	left: 89px;
+	top: -76px;
+}
+
+.banner-slider .slide {
+	width: 50%;
+	margin: auto;
+}
+
+.banner-slider .slide img {
+	width: 100%;
+}
+
+.content-two .content-two-container {
+	width: 90%;
+	padding-top: 50px;
+	margin: auto;
+}
+
+.content-two {
+	overflow: hidden;
+	text-align: center;
+	height: 81vh;
+}
+
+.content-two a {
+	text-decoration: none;
+	color: #844e02;
+}
+
+.content-two p {
+	font-size: 30px;
+	font-weight: bold;
+	color: #363636;
+}
+
+.content-two p:last-child {
+	margin-top: 41px;
+}
+
+.content-three .content-three-container {
+	width: 90%;
+	margin: auto;
+}
+
+.content-three {
+	text-align: center;
+	height: 11vh;
+	/*padding-top: -9px;*/
+}
+
+.content-three a {
+	color: #363636;
+}
+
+.content-three .desc-1 {
+	float: left;
+	margin-left: 30%;
+}
+
+.content-three .desc-2 {
+	float: left;
+	margin-left: 40px;
+}
+
+.content-three .desc-1 a, 
+.content-three .desc-2 a {
+	padding-left: 11px;
+	text-decoration: none;
+}
+
+.content-three .desc-3 a {
+	text-decoration: none;
+	margin-right: 29%;
+}
+
+.footer-area-one {
+	overflow: hidden;
+	text-align: center;
+	height: 50vh;
+	padding-top: 25px;
+}
+
+
+.footer-area-one .footer-area-container {
+	width: 90%;
+	margin: auto;
+}
+
+.footer-area-one .link-footer .link1 {
+	float: left;
+	text-align: center;
+	position: relative;
+	left: 45%;
+	border-width: 0px 1px 0px 0px;
+	border-color: #333;
+	border-style: solid;
+	height: 18px;
+	top: 1px;
+}
+
+.footer-area-one .link-footer  a {
+	text-decoration: none;
+	color: #363636;
+}
+
+.footer-area-one .link1 a {
+	padding-right: 7px;
+}
+
+.footer-area-one .address {
+	margin-top: 4px;
+	font-size: 20px;
+	color: #363636;
+}
+
+.footer-area-one .phn {
+	color: #844e02;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.footer-area-one .new-link a {
+	color: #844e02;
+	text-decoration: none;
+}
+
+.footer {
+	height: 12vh;
+	background-color: #282a2b;
+	color: #999;
+	overflow: hidden;
+	font-size: 12px;
+}
+
+.w-50 {
+	width: 50%;
+	float: left;
+}
+
+.footer .footer-container {
+	width: 95%;
+}
+
+.footer .footer-container .mix {
+	margin-top: 37px;
+	margin-left: 254px;
+	font-size: 17px;
+}
+
+.footer .footer-container .copy {
+	float: left;
+	padding-right: 10px;
+}
+
+.footer .footer-container .date {
+	overflow: hidden;
+}
+
+.footer .info {
+	float: left;
+	border-width: 0px 1px 0px 0px;
+	border-style: solid;
+	border-color: #999;
+}
+
+.footer a {
+	text-decoration: none;
+	display: inline-block;
+	padding-right: 5px;
+	color: #999;
+	transition: 0.3s;
+}
+
+.footer .footer-link1 {
+	overflow: hidden;
+	padding-left: 10px;
+}
+
+.footer a:hover {
+	color: #fff;
+}
