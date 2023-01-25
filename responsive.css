@@ -509,6 +509,23 @@
     .footer-area-one .link1 a {
         padding-right: 10px;
     }
+
+    .footer .footer-link1 p {
+        font-size: 10px;
+    }
+
+    .footer .footer-container .mix {
+        margin-top: 17px;
+    }
+
+    .footer .footer-container .mix .info p {
+        font-size: 10px;
+    }
+
+    .footer .footer-link1 {
+        padding-left: 31px;
+        margin-left: -30px;
+    }
     
 }
 
