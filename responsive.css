@@ -676,10 +676,32 @@
     }
 
     .content-three .desc-2 {
-        margin-left: 9px;
+        margin-left: 15px;
+    }
+
+    .content-three .desc-2 a {
+        padding-left: 12px;
     }
 
     .footer .footer-container .mix .info p {
         font-size: 11px;
+    }
+
+    .content-three {
+        font-size: 8px;
+    }
+
+    .footer .footer-container .mix {
+        margin-left: 9px;
+        font-size: 9px;
+    }
+
+    .footer .footer-container .mix .info p {
+        font-size: 8px;
+    }
+
+    .footer .footer-link1 p {
+        font-size: 9px;
+        margin-left: 16px;
     }
 }
